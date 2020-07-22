@@ -4,28 +4,28 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "SPSS hulp"
+  url = "#spss-hulp"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "STATA hulp"
+  url = "#stata-hulp"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Tarieven"
+  url = "#tarieven"
   weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
+  weight = 40
+
+[[main]]
+  name = "Over ons"
+  url = "#over-ons"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
