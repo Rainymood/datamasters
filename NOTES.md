@@ -76,3 +76,14 @@ https://sourcethemes.com/academic/docs/page-builder/#develop-a-new-widget
 first create `layouts/partials/widgets/hero-left.html` dir stucture 
 
 initialise with `.md` file
+
+# modify font size 
+
+You can modify the font size all the way from extra small to extra large using the font_size option in config/_default/params.toml.
+
+# how to add users 
+
+https://sourcethemes.com/academic/docs/page-builder/#people
+
+First, create a user account for each user that your wish to display. (This can also be performed by duplicating the example content/authors/admin/ folder for each user and modifying its contents appropriately.)
+
