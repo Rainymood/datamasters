@@ -4,11 +4,11 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Onze tutors"
-subtitle = "Wij hebben de liefste en beste data nerds. Speciaal voor jou."
+title = "Meet the Team"
+subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
