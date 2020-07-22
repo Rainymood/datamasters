@@ -95,3 +95,9 @@ First, create a user account for each user that your wish to display. (This can 
 navbar can be found here: 
 
 themes/academic/layouts/partials/navbar.html
+
+fuck i find this shit here
+
+https://sourcethemes.com/academic/docs/customization/#override-a-template
+
+explained in the docs

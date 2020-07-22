@@ -33,11 +33,11 @@
   url = "#contact"
   weight = 60
 
-[[main]]
-  name = ""
-  pre = '<button type="button">Plan a free meeting!</button>'
-  url = "#free-meeting"
-  weight = 100
+# [[main]]
+#   name = ""
+#   pre = '<button type="button">Plan a free meeting!</button>'
+#   url = "#free-meeting"
+#   weight = 100
 
 # [[main]]
 #   [cta]
