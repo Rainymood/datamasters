@@ -33,9 +33,23 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = ""
+  pre = '<button type="button">Plan a free meeting!</button>'
+  url = "#free-meeting"
+  weight = 100
+
+# [[main]]
+#   [cta]
+#     url = "https://..."
+#     label = "Plan a free meeting!"
+#     icon_pack = "fas"
+#     icon = "phone"
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+

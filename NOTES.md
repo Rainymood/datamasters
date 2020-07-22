@@ -37,3 +37,22 @@ Simply edit the `.md` file.
 
 https://fontawesome.com/icons?d=gallery&q=check&s=regular,solido
 https://sourcethemes.com/academic/docs/page-builder/#icons
+
+## To disable enable dark mode
+
+`config/_default/params.toml`
+
+## Alignment of menu items
+
+`config/_default/params.toml`
+
+```toml
+# Main menu alignment (l = left, c = center, r = right) and logo options.
+main_menu = {align = "r", show_logo = true}
+```
+
+## To enable/disable search 
+
+Under search header 
+
+`config/_default/params.toml`
