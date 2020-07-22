@@ -32,3 +32,8 @@ Go to `content/home/hero.md` and put `active` to `true`.
 ## To change content in the hero widget
 
 Simply edit the `.md` file.
+
+## To find all icons
+
+https://fontawesome.com/icons?d=gallery&q=check&s=regular,solido
+https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -19,13 +19,18 @@
   weight = 30
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Voor studenten"
+  url = "#voor-studenten"
   weight = 40
 
 [[main]]
-  name = "Over ons"
-  url = "#over-ons"
+  name = "Voor tutors"
+  url = "#voor-studenten"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

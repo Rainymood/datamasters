@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Datamasters"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "hero-media.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,18 +20,24 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # blue gradient
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
+  # white white gradient
+  gradient_start = "#ffffff"
+  gradient_end = "#ffffff"
+
   
   # Background image.
-  image = "hero1.jpg"  # Name of image in `static/img/`.
+  # image = "hero1.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.

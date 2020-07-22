@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "check-circle"
+  icon_pack = "fas"
+  name = "Hoogste kwaliteit tutors"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "check-circle"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Stressvrij afstuderen"
+  description = "Afstuderen is stressvol, dat snappen wij, daarom zijn wij hier om je te helpen"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "check-circle"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Tevreden klanten"
+  description = "Onze klanten geven ons gemiddeld een 8.0"
 
 # Uncomment to use emoji icons.
 # [[feature]]
