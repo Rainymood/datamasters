@@ -24,3 +24,11 @@ Error: Error building site: "/Users/janmeppe/Documents/Projects/datamasters/cont
 This is because you don't have the academic theme. Download it [here]
 (https://github.com/gcushen/hugo-academic#install-with-git). Then extract the
 files from `hugo-academic-master` and put them in `/themes/academic/`.
+
+## To enable to hero widget
+
+Go to `content/home/hero.md` and put `active` to `true`. 
+
+## To change content in the hero widget
+
+Simply edit the `.md` file.
