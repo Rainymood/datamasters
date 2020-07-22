@@ -66,3 +66,13 @@ From here: `hugo-academic/layouts/partials/widgets/hero.html`
 ## Our colour blue
 
 #0547FF
+
+#acc2ff
+
+## Develop a new widget
+
+https://sourcethemes.com/academic/docs/page-builder/#develop-a-new-widget
+
+first create `layouts/partials/widgets/hero-left.html` dir stucture 
+
+initialise with `.md` file
