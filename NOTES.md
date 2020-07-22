@@ -6,12 +6,21 @@
 
 ## Can't run with hugo server after cloning?
 
-https://github.com/gcushen/hugo-academic/issues/1034
+If you clone this project
 
-f you use Git to clone an Academic Kickstart repo created by Netlify, you will also need to use Git to init the Git submodule (Academic theme) or you will have a folder of website content without Academic itself installed.
+```bash
+git clone https://github.com/Rainymood/datamasters
+cd datamasters
+```
 
-The relevant steps are documented in the Installation Guide at https://github.com/gcushen/hugo-academic#install-with-git
+And try to run it you will run into an error
 
-In the root dir 
+```bash
+➜  hugo server
+Built in 14 ms
+Error: Error building site: "/Users/janmeppe/Documents/Projects/datamasters/content/home/demo.md:69:1": failed to extract shortcode: template for shortcode "alert" not found
+```
 
-git clone https://github.com/sourcethemes/academic-kickstart.git .
+This is because you don't have the academic theme. Download it [here]
+(https://github.com/gcushen/hugo-academic#install-with-git). Then extract the
+files from `hugo-academic-master` and put them in `/themes/academic/`.
