@@ -56,3 +56,13 @@ main_menu = {align = "r", show_logo = true}
 Under search header 
 
 `config/_default/params.toml`
+
+## Hero widget content
+
+https://github.com/gcushen/hugo-academic/blob/c4b40faefaeca46d2249d0a4de0b2056ee3b6f86/layouts/partials/widgets/hero.html
+
+From here: `hugo-academic/layouts/partials/widgets/hero.html`
+
+## Our colour blue
+
+#0547FF

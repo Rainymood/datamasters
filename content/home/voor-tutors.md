@@ -1,11 +1,11 @@
 +++
 # Hero widget.
-widget = "hero-left"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 12  # Order that this section will appear.
 
-title = "Voor studenten"
+title = "Voor tutors"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # For some reason hero-media2 needs to have NO extension
@@ -18,15 +18,17 @@ hero_media = "placeholder.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#f7f7f7"
-
+  color = "white"
+  
   # Background gradient.
   # blue gradient
   # gradient_start = "#4bb4e3"
   # gradient_end = "#2b94c3"
   # white white gradient
-  #gradient_start = "#ffffff"
-  #gradient_end = "#ffffff"
+  # really light gray #fefefe
+  # darker grey #b4b4b4
+  # gradient_start = "#ffffff"
+  # gradient_end = "#b4b4b4"
 
   
   # Background image.
