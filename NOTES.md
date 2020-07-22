@@ -89,3 +89,9 @@ First, create a user account for each user that your wish to display. (This can 
 
 * make new user in `content/authors/<USERNAME>`
 * make usergroup in `people.md` component/widget
+
+# how to overwrite the navbar
+
+navbar can be found here: 
+
+themes/academic/layouts/partials/navbar.html
