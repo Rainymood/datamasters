@@ -87,3 +87,5 @@ https://sourcethemes.com/academic/docs/page-builder/#people
 
 First, create a user account for each user that your wish to display. (This can also be performed by duplicating the example content/authors/admin/ folder for each user and modifying its contents appropriately.)
 
+* make new user in `content/authors/<USERNAME>`
+* make usergroup in `people.md` component/widget
