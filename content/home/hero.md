@@ -8,7 +8,8 @@ weight = 10  # Order that this section will appear.
 title = "Datamasters"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-media.png"
+# For some reason hero-media2 needs to have NO extension
+hero_media = "hero-media2.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
