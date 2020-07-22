@@ -9,7 +9,7 @@ title = "Voor tutors"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # For some reason hero-media2 needs to have NO extension
-hero_media = "placeholder.png"
+hero_media = "svs-home-600x400-c.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
